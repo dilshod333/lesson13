@@ -7,7 +7,7 @@ on:
 
 env:
   DOCKER_USERNAME: dilshodbek219
-  DOCKER_PASSWORD: Dilshod112
+  DOCKER_PASSWORD: Dilshodbek112
   DOCKER_IMAGE_NAME: test_ci_cdd
   DOCKER_IMAGE_TAG: latest
 
